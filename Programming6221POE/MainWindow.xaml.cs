@@ -267,7 +267,7 @@ namespace ChatBotProgramPart2
             public bool IsTrueFalse { get; set; } // true if question is True/False type
         }
 
-        // Add this method in your MainWindow class
+      
         private void StartQuiz()
         {
             List<QuizQuestion> quizQuestions = new List<QuizQuestion>()
